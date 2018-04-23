@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RichEditText</string>
+
+    <string name="edit_title_hint">说点什么描述这个视频吧</string>
+</resources>
